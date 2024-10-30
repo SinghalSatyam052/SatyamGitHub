@@ -7,20 +7,7 @@
       <li>🌱 Currently exploring <strong>Deep Learning and Neural Networks</strong></li>
       <li>📫 How to reach me: <strong>satyam.singhal02.07@gmail.com</strong></li>
     </ul>
-    <h3>👩‍💻 Socials</h3>
-    <div align="left">
-  <a href="https://www.linkedin.com/in/singhalsatyam/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="linkedin logo"  />
-  </a>
-  <a href="satyam.singhal02.07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="gmail logo"  />
-  </a>
-  <a href="https://www.codechef.com/users/titan_codes" target="_blank">
-    <img src="https://static.startuptalky.com/2021/04/codechef-logo-startuptalky.jpg" height="45" width ="100" alt="codechef logo"  />
-  </a>
-  <a href="https://codeforces.com/profile/SatyamSinghal052" target="_blank">
-    <img src="https://tse1.mm.bing.net/th?id=OIP.iPZ00kImJY8oVioV5Dy75AHaD4&pid=Api&P=0&h=180" height="45" alt="codeforces logo"  />
-  </a>
+    
   <div align="right">
     <img height="500" src="https://media1.tenor.com/m/Ai80wth0xLMAAAAC/goku-ssj.gif" />
 </div>
@@ -144,3 +131,18 @@
 
 
 ###
+
+<h3>👩‍💻 Socials</h3>
+    <div align="left">
+  <a href="https://www.linkedin.com/in/singhalsatyam/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="linkedin logo"  />
+  </a>
+  <a href="satyam.singhal02.07@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="gmail logo"  />
+  </a>
+  <a href="https://www.codechef.com/users/titan_codes" target="_blank">
+    <img src="https://static.startuptalky.com/2021/04/codechef-logo-startuptalky.jpg" height="45" width ="100" alt="codechef logo"  />
+  </a>
+  <a href="https://codeforces.com/profile/SatyamSinghal052" target="_blank">
+    <img src="https://tse1.mm.bing.net/th?id=OIP.iPZ00kImJY8oVioV5Dy75AHaD4&pid=Api&P=0&h=180" height="45" alt="codeforces logo"  />
+  </a>
