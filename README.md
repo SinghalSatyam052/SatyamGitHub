@@ -9,7 +9,7 @@
     </ul>
     <br>
     <h3>👩‍💻 Socials</h3>
-    <div align="center">
+    <div align="left">
   <a href="https://www.linkedin.com/in/singhalsatyam/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
@@ -28,7 +28,7 @@
 
 
   <div align="right">
-    <img height="500" src="https://media1.tenor.com/m/Ai80wth0xLMAAAAC/goku-ssj.gif" />
+    <img height="300" src="https://media1.tenor.com/m/Ai80wth0xLMAAAAC/goku-ssj.gif" />
   </div>
 </div>
 
