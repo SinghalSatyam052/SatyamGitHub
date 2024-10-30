@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Satyam SInghal</h1>
+<h1 align="center">Hi 👋, I'm Satyam Singhal</h1>
 <h3 align="center">Pre Final Year B Tech CSE (AI & ML) student at KIET Group of Institutions, Ghaziabad</h3>
 
 - 🌱 currently exploring **Deep Learning and Neural Networks**
