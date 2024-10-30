@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Satyam Singhal</h1>
 <h3 align="center">Pre Final Year B Tech CSE (AI & ML) student at KIET Group of Institutions, Ghaziabad</h3>
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div align="left">
+    <div align="left">
     <h3>👩‍💻 About Me</h3>
     <ul>
       <li>🌱 Currently exploring <strong>Deep Learning and Neural Networks</strong></li>
       <li>📫 How to reach me: <strong>satyam.singhal02.07@gmail.com</strong></li>
     </ul>
-    <br>
     <h3>👩‍💻 Socials</h3>
     <div align="left">
   <a href="https://www.linkedin.com/in/singhalsatyam/" target="_blank">
@@ -22,13 +21,10 @@
   <a href="https://codeforces.com/profile/SatyamSinghal052" target="_blank">
     <img src="https://tse1.mm.bing.net/th?id=OIP.iPZ00kImJY8oVioV5Dy75AHaD4&pid=Api&P=0&h=180" height="45" alt="codeforces logo"  />
   </a>
+  <div align="right">
+    <img height="300" src="https://media1.tenor.com/m/Ai80wth0xLMAAAAC/goku-ssj.gif" />
 </div>
   </div>
-
-
-
-  <div align="right">
-    <img height="290" src="https://media1.tenor.com/m/Ai80wth0xLMAAAAC/goku-ssj.gif" />
   </div>
 </div>
 
