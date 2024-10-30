@@ -28,7 +28,7 @@
 
 
   <div align="right">
-    <img height="300" src="https://media1.tenor.com/m/Ai80wth0xLMAAAAC/goku-ssj.gif" />
+    <img height="290" src="https://media1.tenor.com/m/Ai80wth0xLMAAAAC/goku-ssj.gif" />
   </div>
 </div>
 
